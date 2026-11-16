@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-user-feature"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS user-feature component"
+
+[lib]
+name = "user_feature"
+path = "src/lib.rs"
